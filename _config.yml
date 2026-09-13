@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiacheng Liang (梁嘉诚)"
-description              : "Focusing on video and speech large generation model."
+description              : "Focusing on aerial robotics and soft robotics."
 repository               : "JiachengLiang-HNU/JiachengLiang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         : "Hunan University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
+  email            : "liangjiacheng@hnu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
