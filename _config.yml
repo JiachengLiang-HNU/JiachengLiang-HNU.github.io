@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiacheng Liang"
-description              : "Welcome to Jiacheng Liang's homepage"
+title                    : "Dr. Jiacheng Liang"
+description              : "An enthusiastic robotics researcher 梁嘉诚"
 repository               : "JiachengLiang-HNU/JiachengLiang.github.io"
 google_scholar_stats_use_cdn : true
 
