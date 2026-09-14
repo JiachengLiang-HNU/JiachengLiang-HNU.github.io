@@ -9,6 +9,27 @@ Full list can be found on my [Google Scholar](https://scholar.google.com/citatio
 
 - `TAES 2026` **Jiacheng Liang**, Yaonan Wang, Hang Zhong, Yanjie Chen, Jianxu Mao, Hean Hua, Hui Zhang. [Stability-Guaranteed Hybrid Motion/Force Control for Aerial Interaction Based on Switching Strategy](https://ieeexplore.ieee.org/abstract/document/11482461). IEEE Transactions on Aerospace and Electronic Systems, 2026.
 
+- `TMECH 2024` **Jiacheng Liang**, Hang Zhong, Yaonan Wang, Yanjie Chen, Jianxu Mao, Wei Wang, Hui Zhang. [Reference Optimization-Based Compliant Control for Aerial Pipeline Inspection Using a Hexacopter With a Robotic Contact Device](https://ieeexplore.ieee.org/abstract/document/10443425). IEEE/ASME Transactions on Mechatronics, 2024.
+
+- `TAES 2024` **Jiacheng Liang**, Yaonan Wang, Hang Zhong, Yanjie Chen, Hongwen Li, Hean Hua, Wei Wang. [Robust Adaptive Tracking Control for Aerial Transporting a Cable-Suspended Payload Using Backstepping Sliding Mode Techniques](https://ieeexplore.ieee.org/abstract/document/10412153). IEEE Transactions on Automation Science and Engineering, 2024.
+
+- `TAES 2024` Hang Zhong, **Jiacheng Liang**, Yanjie Chen, Hui Zhang, Jianxu Mao, Yaonan Wang. [Prototype, Modeling, and Control of Aerial Robots With Physical Interaction: A Review](https://ieeexplore.ieee.org/abstract/document/10520237). IEEE Transactions on Automation Science and Engineering, 2024.
+
+- `TII 2023` **Jiacheng Liang**, Yaonan Wang, Hang Zhong, Yanjie Chen, Hongwen Li, Jianxu Mao, Wei Wang. [Robust Variable Impedance Control for Aerial Compliant Interaction With Stability Guarantee](https://ieeexplore.ieee.org/abstract/document/10236914). IEEE Transactions on Industrial Informatics, 2023.
+
+- `TASE 2023` **Jiacheng Liang**, Hang Zhong, Yaonan Wang, Yanjie Chen, Junhao Zeng, Jianxu Mao. [Adaptive Force Tracking Impedance Control for Aerial Interaction in Uncertain Contact Environment Using Barrier Function](https://ieeexplore.ieee.org/abstract/document/10214199). IEEE Transactions on Automation Science and Engineering, 2023.
+
+- `TMECH 2023` **Jiacheng Liang**, Yanjie Chen, Yangning Wu, Hang Zhong, Zhiqiang Miao, Hui Zhang, Yaonan Wang. [Active Physical Interaction Control for Aerial Manipulator Based on External Wrench Estimation](https://ieeexplore.ieee.org/abstract/document/10057130). IEEE/ASME Transactions on Mechatronics, 2023.
+
+- `TASE 2022` **Jiacheng Liang**, Yanjie Chen, Yangning Wu, Zhiqiang Miao, Hui Zhang, Yaonan Wang. [Adaptive Prescribed Performance Control of Unmanned Aerial Manipulator With Disturbances](https://ieeexplore.ieee.org/abstract/document/9812607/). IEEE Transactions on Automation Science and Engineering, 2022.
+
+- `TCYB 2022` Yanjie Chen, **Jiacheng Liang***, Yangning Wu, Zhiqiang Miao, Hui Zhang, Yaonan Wang. [Adaptive Sliding-Mode Disturbance Observer-Based Finite-Time Control for Unmanned Aerial Manipulator With Prescribed Performance](https://ieeexplore.ieee.org/abstract/document/9768118). IEEE Transactions on Cybernetics, 2022.
+
+- `TII 2021` **Jiacheng Liang**, Yanjie Chen, Ningbin Lai, Bingwei He, Zhiqiang Miao, Yaonan Wang. [Low-Complexity Prescribed Performance Control for Unmanned Aerial Manipulator Robot System Under Model Uncertainty and Unknown Disturbances](https://ieeexplore.ieee.org/abstract/document/9565382). IEEE Transactions on Industrial Informatics, 2021.
+
+
+
+
 
 <!--
 
