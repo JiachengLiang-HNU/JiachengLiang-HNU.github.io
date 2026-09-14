@@ -3,7 +3,7 @@ I am currently a **Postdoctoral Research Fellow** at the School of Artificial In
 
 I received **B.S. degree** in mechanical design manufacture and automation and the **M.S. degree** in mechatronic engineering from Fuzhou University, Fuzhou, China, in 2019 and 2022, supervised by [Prof. Yanjie Chen](https://scholar.google.com/citations?user=AITQ2HIAAAAJ&hl=zh-CN) ([陈彦杰 国防科技大学](https://sites.google.com/view/yanjiechen/home)), and the **Ph.D. degree** in control science and engineering from Hunan University, Changsha, China, in 2026, supervised by [Prof. Yaonan Wang](https://www.researchgate.net/profile/Yaonan-Wang) ([王耀南 湖南大学](https://baike.baidu.com/item/%E7%8E%8B%E8%80%80%E5%8D%97/13478272)) and co-supervised by [Prof. Hang Zhong](https://scholar.google.com/citations?user=nogviLMAAAAJ&hl=zh-CN) ([钟杭 湖南大学](https://robotics.hnu.edu.cn/info/1176/2957.htm)).
 
-I was honored to be supported by **China Association for Science and Technology's Young Scientific and Technological Talent Cultivation Program** ([中国科协青年科技人才培育计划](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc)) (Special Project for Doctoral Students), in 2025.
+I was honored to be supported by **China Association for Science and Technology's Young Scientific and Technological Talent Cultivation Program (Doctoral Student Special Project)** ([中国科协青年科技人才培育计划博士生专项](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc)) , in 2025.
 
 My research interests include:
 - aerial robotics
