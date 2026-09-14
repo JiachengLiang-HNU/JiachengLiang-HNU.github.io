@@ -2,7 +2,7 @@
 # 📝 Publications 
 ## ✈ Aerial Physical Interaction
 
-- ``ACL 2023``
+- `TMECH 2026` []
 
 - `ACL 2026`
 
