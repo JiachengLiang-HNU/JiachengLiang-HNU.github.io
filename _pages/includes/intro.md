@@ -9,4 +9,5 @@ My research interests include:
 - soft robotics
 - robot control
 - aerial manipulation
-I have published 20+ papers <a href='https://scholar.google.com/citations?user=cSVu62kAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top journal and international conferences such as IEEE/ASME TMECH, TASE, TCYB, TII. 
+
+I have published 20+ papers <a href='https://scholar.google.com/citations?user=cSVu62kAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FJiachengLiang-HNU%2Fjiachengliang-hnu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top journal and international conferences such as IEEE/ASME TMECH, TASE, TCYB, TII. 
