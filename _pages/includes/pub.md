@@ -13,7 +13,7 @@ Full list can be found on my [Google Scholar](https://scholar.google.com/citatio
 
 - `TAES 2024` **Jiacheng Liang**, Yaonan Wang, Hang Zhong, Yanjie Chen, Hongwen Li, Hean Hua, Wei Wang. [Robust Adaptive Tracking Control for Aerial Transporting a Cable-Suspended Payload Using Backstepping Sliding Mode Techniques](https://ieeexplore.ieee.org/abstract/document/10412153). IEEE Transactions on Automation Science and Engineering, 2024.
 
-- `TAES 2024` Hang Zhong, **Jiacheng Liang**, Yanjie Chen, Hui Zhang, Jianxu Mao, Yaonan Wang. [Prototype, Modeling, and Control of Aerial Robots With Physical Interaction: A Review](https://ieeexplore.ieee.org/abstract/document/10520237). IEEE Transactions on Automation Science and Engineering, 2024.
+- `TAES 2024` Hang Zhong, **Jiacheng Liang***, Yanjie Chen, Hui Zhang, Jianxu Mao, Yaonan Wang. [Prototype, Modeling, and Control of Aerial Robots With Physical Interaction: A Review](https://ieeexplore.ieee.org/abstract/document/10520237). IEEE Transactions on Automation Science and Engineering, 2024.
 
 - `TII 2023` **Jiacheng Liang**, Yaonan Wang, Hang Zhong, Yanjie Chen, Hongwen Li, Jianxu Mao, Wei Wang. [Robust Variable Impedance Control for Aerial Compliant Interaction With Stability Guarantee](https://ieeexplore.ieee.org/abstract/document/10236914). IEEE Transactions on Industrial Informatics, 2023.
 
