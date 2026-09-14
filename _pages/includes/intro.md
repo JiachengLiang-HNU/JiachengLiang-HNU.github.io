@@ -4,4 +4,9 @@ I received **B.S. degree** in mechanical design manufacture and automation and t
 
 I was honored to be supported by **China Association for Science and Technology's Young Scientific and Technological Talent Cultivation Program** ([中国科协青年科技人才培育计划](https://kecaihui-tm-zz.cast.org.cn/specialPage/web?type=qtgc)) (Special Project for Doctoral Students), in 2025.
 
-My research interest includes aerial robotics, soft robotics, robot control, and aerial manipulation. I have published 20+ papers <a href='https://scholar.google.com/citations?user=cSVu62kAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top journal and international conferences such as IEEE/ASME TMECH, TASE, TCYB, TII. 
+My research interests include:
+- aerial robotics
+- soft robotics
+- robot control
+- aerial manipulation
+I have published 20+ papers <a href='https://scholar.google.com/citations?user=cSVu62kAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top journal and international conferences such as IEEE/ASME TMECH, TASE, TCYB, TII. 
