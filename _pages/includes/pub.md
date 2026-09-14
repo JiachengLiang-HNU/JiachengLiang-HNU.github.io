@@ -2,9 +2,9 @@
 # 📝 Publications 
 ## ✈ Aerial Physical Interaction
 
-- `TMECH 2026` []
+- `TMECH 2026` Ling Li, Yijia Cao, **Jiacheng Liang***, Hang Zhong, Hui Zhang, Yexin Fan, Yaonan Wang. [Tank-Based Passivity Control of a Fully Actuated Aerial Vehicle for Safe Physical Interaction With Movable Targets](https://ieeexplore.ieee.org/abstract/document/11611762). IEEE/ASME Transactions on Mechatronics, 2026.
 
-- `ACL 2026`
+- `TAES 2026` **Jiacheng Liang**, Yaonan Wang, Hang Zhong, Yanjie Chen, Jianxu Mao, Hean Hua, Hui Zhang. [Stability-Guaranteed Hybrid Motion/Force Control for Aerial Interaction Based on Switching Strategy](https://ieeexplore.ieee.org/abstract/document/11482461). IEEE Transactions on Aerospace and Electronic Systems, 2026.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
