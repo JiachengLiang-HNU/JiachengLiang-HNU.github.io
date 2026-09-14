@@ -2,6 +2,10 @@
 # 📝 Publications 
 ## ✈ Aerial Physical Interaction
 
+- ``ACL 2023``
+
+- `ACL 2026`
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
