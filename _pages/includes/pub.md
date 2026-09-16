@@ -3,6 +3,10 @@
 
 Full list can be found on my [Google Scholar](https://scholar.google.com/citations?user=cSVu62kAAAAJ&hl=zh-CN).
 
+## 📚 Book
+
+- `TMECH 2026` Yaonan Wang, Yanjie Chen, Hang Zhong, **Jiacheng Liang**. [Electric Power Robots: Modeling, Control, and Applications](https://link.springer.com/book/10.1007/978-981-96-2512-3). Springer Nature, 2025.
+
 ## ✈ Selected Papers
 
 - `TMECH 2026` Ling Li, Yijia Cao, **Jiacheng Liang***, Hang Zhong, Hui Zhang, Yexin Fan, Yaonan Wang. [Tank-Based Passivity Control of a Fully Actuated Aerial Vehicle for Safe Physical Interaction With Movable Targets](https://ieeexplore.ieee.org/abstract/document/11611762). IEEE/ASME Transactions on Mechatronics, 2026.
