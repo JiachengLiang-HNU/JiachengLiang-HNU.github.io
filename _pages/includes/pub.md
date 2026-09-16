@@ -5,7 +5,7 @@ Full list can be found on my [Google Scholar](https://scholar.google.com/citatio
 
 ## 📚 Book
 
-- `TMECH 2026` Yaonan Wang, Yanjie Chen, Hang Zhong, **Jiacheng Liang**. [Electric Power Robots: Modeling, Control, and Applications](https://link.springer.com/book/10.1007/978-981-96-2512-3). Springer Nature, 2025.
+- `Springer Nature 2025` Yaonan Wang, Yanjie Chen, Hang Zhong, **Jiacheng Liang**. [Electric Power Robots: Modeling, Control, and Applications](https://link.springer.com/book/10.1007/978-981-96-2512-3). Springer Nature, 2025.
 
 ## ✈ Selected Papers
 
